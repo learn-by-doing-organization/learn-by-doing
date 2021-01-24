@@ -94,6 +94,6 @@ ViewBag.IsLast = (posts.Count >= (int)ViewBag.PageSize);
 #### Modify Categoria e Tag entity (optional, but highly recommended)
 - Make the same changes that we did for the Posts, for Categories and Tags, in the way that these two also will be displayed paginated.
 
-[see the repository with the implementation (!!!contains spoiler)](https://github.com/Magicianred/my-blog-sample/tree/pathFromV1toV2/step04/add-pagination-to-posts) 
+[see the repository with the implementation (!!!contains spoiler)](https://github.com/learn-by-doing-organization/my-blog-sample/tree/pathFromV1toV2/step04/add-pagination-to-posts) 
 
 [Return to main page](../README.md)  

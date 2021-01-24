@@ -104,7 +104,7 @@ ViewBag.IsLast = (posts.Count >= (int)ViewBag.PageSize);
 - Effettua le stesse modifiche che abbiamo fatto per i Post per le Categorie ed i Tag, così che anche questi saranno visualizzati paginati.  
 
 
-[Vedi il repository con l'implementazione (!!!contiene spoiler)](https://github.com/Magicianred/my-blog-sample/tree/pathFromV1toV2/step04/add-pagination-to-posts)  
+[Vedi il repository con l'implementazione (!!!contiene spoiler)](https://github.com/learn-by-doing-organization/my-blog-sample/tree/pathFromV1toV2/step04/add-pagination-to-posts)  
 
 
 [Ritorna alla pagina principale](../README_IT.md)  

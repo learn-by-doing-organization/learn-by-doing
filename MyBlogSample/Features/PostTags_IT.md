@@ -118,7 +118,7 @@ services.AddScoped<ITagsService, TagsService>();
 - Aggiungi un test come *HomeControllerTest.should_retrieve_post_by_id* per verificare che la pagina di dettaglio del tag risponda correttamente quando si richiede un id esistente  
 - Aggiungi un test come *HomeControllerTest.should_retrieve_no_one_post* per verificare che la pagina di dettaglio del tag risponda correttamente quando si richiede un id non esistente  
 
-[Vedi il repository con l'implementazione (!!!contiene spoiler)](https://github.com/Magicianred/my-blog-sample/tree/pathFromV1toV2/step02/add-tags-to-posts)  
+[Vedi il repository con l'implementazione (!!!contiene spoiler)](https://github.com/learn-by-doing-organization/my-blog-sample/tree/pathFromV1toV2/step02/add-tags-to-posts)  
 
 [Ritorna alla pagina principale](../README_IT.md)  
 

@@ -14,7 +14,7 @@ Tommaso ti ha chiesto inoltre di dargli una mano per vericare l'esistenza di alt
 
 Nessuna specifica implementativa. In questa attività bisogna eseguire i test e fissare "in qualche modo" gli errori che vengono segnalati dai test. Se non riesci a trovare la soluzione ad un test passa al successivo. Quando hai provato a risolvere tutti i test passa a vedere le soluzioni nel repository.  
 
-[Vedi il repository con l'implementazione (!!!contiene spoiler)](https://github.com/Magicianred/my-blog-sample/tree/pathFromV1toV2/step05/bug-fixing)  
+[Vedi il repository con l'implementazione (!!!contiene spoiler)](https://github.com/learn-by-doing-organization/my-blog-sample/tree/pathFromV1toV2/step05/bug-fixing)  
 
 
 [Ritorna alla pagina principale](../README_IT.md)  

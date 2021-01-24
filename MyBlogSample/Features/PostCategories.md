@@ -79,6 +79,6 @@ services.AddScoped<ICategoriesService, CategoriesService>();
 - Add a test like *HomeControllerTest.should_retrieve_post_by_id* to verify that the category page responds correctly when requesting an existing id  
 - Add a test like *HomeControllerTest.should_retrieve_no_one_post* to verify that the category page responds correctly when requesting a non-existent id  
 
-[See the repository with the implementation (!!! contains spoilers)](https://github.com/Magicianred/my-blog-sample/tree/pathFromV1toV2/step01/add-category-to-posts)  
+[See the repository with the implementation (!!! contains spoilers)](https://github.com/learn-by-doing-organization/my-blog-sample/tree/pathFromV1toV2/step01/add-category-to-posts)  
 
 [Return to main page](../README.md)  

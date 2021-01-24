@@ -71,6 +71,6 @@ if (!String.IsNullOrWhiteSpace(author))
 #### Progetto Integration Test Web
 Nessun intervento  
 
-[Vedi il repository con l'implementazione (!!!contiene spoiler)](https://github.com/Magicianred/my-blog-sample/tree/pathFromV1toV2/step03/add-author-to-posts)  
+[Vedi il repository con l'implementazione (!!!contiene spoiler)](https://github.com/learn-by-doing-organization/my-blog-sample/tree/pathFromV1toV2/step03/add-author-to-posts)  
 
 [Ritorna alla pagina principale](../README_IT.md)  
