@@ -3,6 +3,8 @@
 
 Un repository contenitore di progetti dove puoi praticare ed imparare facendo.  
 
+[Per supporto](https://github.com/orgs/learn-by-doing-organization/projects/1)  
+
 ## Indice
 - [Descrizione](#descrizione)  
 - [Come utilizzare learn-by-doing](#come-utilizzare-learn-by-doing)  
@@ -50,10 +52,10 @@ Può essere usato anche da chi ha già esperienza come un *format* per imparare 
 In questo caso puoi fare un fork del repository *learn-by-doing* ed utilizzare i progetti già presenti (o crearne di nuovi) e rendere così disponibile ad altri questa possibilità.  
 
 ### Traduci le istruzioni nella tua lingua
-Uno dei contributi possibili è quello di fare la traduzione delle istruzioni (del progetto learn-by-doing o dei singoli progetti) nella tua lingua (o aiutare chi lo sta già facendo, [verifica nelle Issue del progetto/i se ce ne sono in corso](https://github.com/Magicianred/learn-by-doing/projects/2)).    
+Uno dei contributi possibili è quello di fare la traduzione delle istruzioni (del progetto learn-by-doing o dei singoli progetti) nella tua lingua (o aiutare chi lo sta già facendo, [verifica nelle Issue del progetto/i se ce ne sono in corso](https://github.com/orgs/learn-by-doing-organization/projects/3)).    
 
 ### Aiuta chi sta imparando
-Nel [Project di learn-by-doing](https://github.com/users/Magicianred/projects/5) colonna *Issues from Learners* trovi chi sta utilizzando *learn-by-doing* e ha bisogno di aiuto. Se hai esperienza o hai già eseguito il progetto puoi aiutare dando dei suggerimenti. Interagisci nel repository dell'apprendente (il fork del repository) rispondendo alla issue linkata.  
+Nel [Project di learn-by-doing](https://github.com/orgs/learn-by-doing-organization/projects/4) colonna *Issues from Learners* trovi chi sta utilizzando *learn-by-doing* e ha bisogno di aiuto. Se hai esperienza o hai già eseguito il progetto puoi aiutare dando dei suggerimenti. Interagisci nel repository dell'apprendente (il fork del repository) rispondendo alla issue linkata.  
 
 ### Crea un progetto learn-by-doing
 Puoi contribuire realizzando un progetto da aggiungere. Se hai esperienza di programmazione puoi creare un repository con il format *learn-by-doing* per permettere ad altri di apprendere a programmare.  
@@ -68,7 +70,7 @@ Se non sei interessato a tutti i passaggi per implementare la funzionalità e vu
 ### Ho problemi ad eseguire un compito
 Se non riesci ad implementare un'attività, o hai bisogno di chiedere dei chiarimenti fai in questo modo:  
 - crea una issue sul tuo repository GitHub  
-- crea una issue sul [Project di learn-by-doing](https://github.com/users/Magicianred/projects/5) colonna *Issues from Learners* dove indichi il link alla tua issue  
+- crea una issue sul [Project di learn-by-doing](https://github.com/orgs/learn-by-doing-organization/projects/4) colonna *Issues from Learners* dove indichi il link alla tua issue  
 - aspetta che qualcuno risponda alla issue sul tuo GitHub
 
 In questo modo potrai anche praticare l'uso delle issue su GitHub apprendendo come gestire i progetti attraverso gli strumenti di github.  

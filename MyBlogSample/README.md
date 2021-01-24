@@ -38,7 +38,7 @@ The code of the project is very structured, but it has few features yet. It is r
 ## Instructions
 Below you will find listed the features them will want to see implemented in the project. A *functional* description will be presented which is what the *customer*, in our case Tom and Jim, want to have on their blog. If you have some experience, or want to get involved, this description may already be enough for you to start the business. On the contrary, if you need help understanding what to do click on the link *Implementation specifications* and you will find technical details on how to proceed.  
 
-### Clona il repository
+### Clone the project
 First, clone the project repository
 
 ```bash
